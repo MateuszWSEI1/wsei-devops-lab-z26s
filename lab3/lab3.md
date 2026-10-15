@@ -197,5 +197,4 @@ Polecenia wykonuj na maszynie Ubuntu, w tej samej sesji SSH co poprzednie ćwicz
 - Zrzut ekranu wykonany przed zatrzymaniem `customweb` w ćwiczeniu 5, zawierający działający kontener Nginx `customweb` z własnym `index.html`:
   - `docker ps -a`
   - okno przeglądarki
-- Plik `Dockerfile` z ćwiczenia 5.
 - Odpowiedz krótko: **Dlaczego zmiana lokalnego HTML nie zmieniła strony działającej w kontenerze? Czym różni się to od bind mount z ćwiczenia 3?**
